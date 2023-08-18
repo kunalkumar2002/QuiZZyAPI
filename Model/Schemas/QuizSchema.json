@@ -1,0 +1,19 @@
+{
+    "id":"",
+    "status":"Boolean",
+    "creationDate":"",
+    "updationDate":"",
+    "createdBy":"",
+    "quizName":"String",
+    "thumbnail":"Link",
+    "questions":[
+        {
+            "question":"",
+            "options":["","","",""],
+            "answer":""
+        }
+    ],
+    "enrollments":"",
+    "Rating":"",
+    "price":""
+}

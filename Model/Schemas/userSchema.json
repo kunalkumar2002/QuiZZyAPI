@@ -1,0 +1,25 @@
+{
+    "id":"",
+    "name":"",
+    "email":"",
+    "password":"",
+    "phoneNO":"",
+    "role":"Normal",
+    "status":"",
+    "tests":[
+        {
+            "quizID":"",
+            "date":"",
+            "quizName":"",
+            "score":"",
+            "chosedOptions":["",""]
+        }
+    ],
+    "enrolledCourses":[
+        {
+            "courseName":"String",
+            "CourseID":"String",
+            "Progress":"Number"
+        }
+    ]    
+}

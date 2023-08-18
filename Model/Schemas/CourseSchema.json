@@ -1,0 +1,42 @@
+{
+    "id":"String",
+    "Status":"Boolean",
+    "creationDate":"Date",
+    "updationDate":"Date",
+    "courseCreator":"String",
+    "CourseName":"String",
+    "thumbnail":"String",
+    "enrollments":"Number",
+    "Rating":"Number",
+    "Price":"Number",
+    "courseQuestion":[
+        {
+            "question":"What is html",
+            "options":["option1","option2","option3","option4"],
+            "answer":"String",
+            "videoLink":"String",
+            "otherResourses":["resource1","resource1","resource1"]
+        },
+        {
+            "question":"String",
+            "options":"Array",
+            "answer":"String",
+            "videoLink":"String",
+            "otherResourses":[]
+        },
+        {
+            "question":"String",
+            "options":"Array",
+            "answer":"String",
+            "videoLink":"String",
+            "otherResourses":[]
+        },
+        {
+            "question":"String",
+            "options":"Array",
+            "answer":"String",
+            "videoLink":"String",
+            "otherResourses":[]
+        }
+    ]
+}

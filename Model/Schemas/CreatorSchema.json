@@ -1,0 +1,18 @@
+{
+    "id":"String",
+    "name":"",
+    "email":"",
+    "password":"",
+    "status":"",
+    "role":"Creator",
+    "createdQuizes":[
+        {
+            "quizID":""
+        }
+    ],
+    "createdCourses":[
+        {
+            "courseID":""
+        }
+    ]
+}

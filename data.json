@@ -1,7 +1,0 @@
-{
-   "java" : [{
-    "id" : 1,
-    "question": "Which of the following option leads to the portability and security of Java?",
-    "options": ["Bytecode is executed by JVM", "The applet makes the Java code secure and portable", "Use of exception handling", "Dynamic binding between objects"],
-    "ans": "Bytecode is executed by the JVM."}] 
-}
